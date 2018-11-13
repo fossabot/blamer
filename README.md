@@ -11,6 +11,7 @@ Status
 [![Dependency Status](https://gemnasium.com/kucherenko/blamer.svg)](https://gemnasium.com/kucherenko/blamer)
 [![Code Climate](https://codeclimate.com/github/kucherenko/blamer/badges/gpa.svg)](https://codeclimate.com/github/kucherenko/blamer)
 [![NPM](https://nodei.co/npm/blamer.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/blamer/)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fmatthieualouis%2Fblamer.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fmatthieualouis%2Fblamer?ref=badge_shield)
 
 Setup
 -----
@@ -57,3 +58,7 @@ License
 -------
 
 [The MIT License](https://github.com/kucherenko/blamer/blob/master/LICENSE)
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fmatthieualouis%2Fblamer.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fmatthieualouis%2Fblamer?ref=badge_large)
